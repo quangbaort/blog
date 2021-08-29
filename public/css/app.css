@@ -1,0 +1,14 @@
+.card-header,.card-footer{
+    background: #2a3042;
+    color : #fff;
+}
+.card-title{
+    color : #fff;
+}
+label {
+    font-weight: 600;
+    cursor: pointer;
+}
+input.form-control,select.form-control,textarea.form-control{
+    font-weight: 600;
+}

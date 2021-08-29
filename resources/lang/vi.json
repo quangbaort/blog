@@ -1,0 +1,16 @@
+{
+    "The username field is required." : "The username field is required.",
+    "The password field is required." : "The password field is required",
+    "The username must be at least 6 characters." : "The username must be at least 6 characters.",
+    "The username format is invalid." : "The username format is invalid",
+    "The password must be at least 6 characters." : "The password must be at least 6 characters.",
+    "The avatar must be an image." : "The avatar must be an image.",
+    "The avatar must be a file of type: jpeg, png, jpg, gif, svg." : "The avatar must be a file of type: jpeg, png, jpg, gif, svg.",
+    "The avatar field is required." : "The avatar field is required",
+    "The name field is required." : "The name field is required",
+    "The name may not be greater than 50 characters." : "The name may not be greater than 50 characters.",
+    "The password confirm field is required." : "The password confirm field is required",
+    "The password new must be at least 6 characters." : "The password new must be at least 6 characters.",
+    "The password comfirm and password new must match." : "The password comfirm and password new must",
+    "The password comfirm must be at least 6 characters" : "The password comfirm must be at least 6 characters"
+}
